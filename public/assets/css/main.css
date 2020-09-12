@@ -8604,6 +8604,8 @@ input, select, textarea {
 
 /* Custom css */
 
-.hide, .spotlight.style1.hide {
+.hide,
+.spotlight.style1.hide,
+ul.actions.hide {
 	display: none;
 }
